@@ -1,0 +1,22 @@
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-F_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-B_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-F_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-B_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-F_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-B_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\kicad project files\AS-EXTN-UNO-01\AS-EXTN-UNO-01-job.gbrjob'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-F_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-B_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-F_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-B_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-F_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-B_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-EXTN-UNO-01\gerber files\AS-EXTN-UNO-01-job.gbrjob'.
+Info: Done.
+Info: Done.
